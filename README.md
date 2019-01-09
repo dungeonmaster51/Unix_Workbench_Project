@@ -1,3 +1,5 @@
-# guessinggame.sh
-* **LAST RUN:** 4(date)  
-* **No. of lines in guessinggame.sh: ** 4(wc -l guessinggame.sh | awk '{print 41}')  
+## guessinggame.sh for coursera/JHU THE UNIX WORKBENCH COURSE 
+
+README.md created: Thu Jan 10 00:56:02 DST 2019
+
+Number of Lines in guessinggame.sh: 23
